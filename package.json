@@ -1,0 +1,17 @@
+{
+  "name": "you-are-normal",
+  "version": "1.0.0",
+  "description": "Geometry Dash Program that spams You are Normal on your profile!",
+  "main": "index.js",
+  "dependencies": {
+    "gd.js": "^0.2.7",
+    "node-fetch": "^2.6.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "TWTG",
+  "license": "MIT"
+}
